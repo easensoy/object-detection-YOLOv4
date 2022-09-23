@@ -1,4 +1,4 @@
-# object-detection-YOLOv4
+# Object Detection with YOLOv4
 
 ## The trained objects
 
